@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autok>
+    <auto id="1">
+        <automarka>Suzuki</automarka>
+        <autotipus>Swift</autotipus>
+        <evjarat>2002</evjarat>
+        <hengerurtartalom>1230</hengerurtartalom>
+    </auto>
+    <auto id="2">
+        <automarka>Suzuki</automarka>
+        <autotipus>Ignis</autotipus>
+        <evjarat>2006</evjarat>
+        <hengerurtartalom>1230</hengerurtartalom>
+    </auto>
+    <auto id="3">
+        <automarka>Ford</automarka>
+        <autotipus>Galaxy</autotipus>
+        <evjarat>2008</evjarat>
+        <hengerurtartalom>1912</hengerurtartalom>
+    </auto>
+</autok>
